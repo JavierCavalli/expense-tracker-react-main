@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo: 
 
-https://app.netlify.com/sites/aquamarine-nasturtium-4bf446/overview
+https://aquamarine-nasturtium-4bf446.netlify.app/
 
 ![image](https://i.ibb.co/Qrv99PN/expensetracker.png)
 
