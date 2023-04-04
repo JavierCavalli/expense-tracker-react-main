@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+App de gastos hecha con react para probar useReducer y useContext.
 
 ## Built With: 
 
